@@ -94,7 +94,7 @@
             "scale": 0.49518749999999995,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 737.0945348983972,
+                "x": 739.1139719803106,
                 "y": 768.3958096680551
             }
         },
@@ -162,7 +162,6 @@
     "project": "gameLevelsProject.tiled-project",
     "property.type": "int",
     "recentFiles": [
-        "_world1/world1_tier5_levels.tmx",
         "_world1/world1_tier1_levels.tmx",
         "_world1/world1_tier2_levels.tmx",
         "_world1/world1_tier3_levels.tmx",
@@ -171,7 +170,8 @@
         "_world1/world1_tier9_levels.tmx",
         "_world1/world1_tier7_levels.tmx",
         "_world1/world1_tier8_levels.tmx",
-        "_world1/world1_tier6_levels.tmx"
+        "_world1/world1_tier6_levels.tmx",
+        "_world1/world1_tier5_levels.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
