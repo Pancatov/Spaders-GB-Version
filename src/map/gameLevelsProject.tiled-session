@@ -1,0 +1,183 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "_world1/world1_tier5_levels.tmx",
+    "expandedProjectPaths": [
+        "_world1",
+        "debug"
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "_world1/world1_tier1_levels.tmx": {
+            "scale": 0.6709375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 637.9133674895203,
+                "y": 640.14904517932
+            }
+        },
+        "_world1/world1_tier2_levels.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.99999999999994,
+                "y": 512.6666666666665
+            }
+        },
+        "_world1/world1_tier3_levels.tmx": {
+            "scale": 1.1182291666666666,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 354.13134606427576,
+                "y": 384.08942710759203
+            }
+        },
+        "_world1/world1_tier4_levels.tmx": {
+            "scale": 0.838671875,
+            "selectedLayer": 32,
+            "viewCenter": {
+                "x": 480.52165812761996,
+                "y": 512.119236143456
+            }
+        },
+        "_world1/world1_tier5_levels.tmx": {
+            "scale": 0.838671875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 480.52165812761996,
+                "y": 512.119236143456
+            }
+        },
+        "_world1/world1_tier6_levels.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 480,
+                "y": 513
+            }
+        },
+        "_world1/world1_tier7_levels.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480,
+                "y": 513
+            }
+        },
+        "_world1/world1_tier8_levels.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 406,
+                "y": 633
+            }
+        },
+        "_world1/world1_tier9_levels.tmx": {
+            "scale": 0.7282169117647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 514.9564558879212,
+                "y": 512.8966300643696
+            }
+        },
+        "debug/debugBeto.tmx": {
+            "scale": 0.7282169117647059,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 480.6260254953931,
+                "y": 512.8966300643696
+            }
+        },
+        "gb/gameboyCreatures.tmx": {
+            "scale": 0.49518749999999995,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 737.0945348983972,
+                "y": 768.3958096680551
+            }
+        },
+        "gb/gameboyMisc.tmx": {
+            "scale": 0.7282169117647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.6260254953931,
+                "y": 512.8966300643696
+            }
+        },
+        "gb/gameboyMisc2.tmx": {
+            "scale": 0.7282169117647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.6260254953931,
+                "y": 512.8966300643696
+            }
+        },
+        "gb/gameboyWeapon1.tmx": {
+            "scale": 0.77373046875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 513.0985737725609,
+                "y": 512.4523539063485
+            }
+        },
+        "gb/gameboyWeapon2.tmx": {
+            "scale": 0.77373046875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 513.0985737725609,
+                "y": 512.4523539063485
+            }
+        },
+        "tilesets/gb.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/poke.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/spadersTileset.tsx": {
+            "scaleInDock": 0.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/alber/Documents/GitHub/Spaders_GameDesign/www/data/_world1",
+    "last.externalTilesetPath": "E:/projects/spaders/spaders/src/map/tilesets",
+    "last.imagePath": "D:/projects/spaders/spaders/src/map/tilesets",
+    "map.lastUsedExportFilter": "Ficheiros mapa JSON (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "_world1/world1_tier1_levels.tmx",
+        "_world1/world1_tier2_levels.tmx",
+        "_world1/world1_tier3_levels.tmx",
+        "_world1/world1_tier4_levels.tmx",
+        "_world1/world1_tier5_levels.tmx",
+        "_world1/world1_tier6_levels.tmx",
+        "_world1/world1_tier8_levels.tmx",
+        "_world1/world1_tier7_levels.tmx",
+        "_world1/world1_tier9_levels.tmx",
+        "debug/debugBeto.tmx"
+    ],
+    "project": "gameLevelsProject.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "_world1/world1_tier5_levels.tmx",
+        "_world1/world1_tier1_levels.tmx",
+        "_world1/world1_tier2_levels.tmx",
+        "_world1/world1_tier3_levels.tmx",
+        "_world1/world1_tier4_levels.tmx",
+        "debug/debugBeto.tmx",
+        "_world1/world1_tier9_levels.tmx",
+        "_world1/world1_tier7_levels.tmx",
+        "_world1/world1_tier8_levels.tmx",
+        "_world1/world1_tier6_levels.tmx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 0
+}
